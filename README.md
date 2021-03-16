@@ -1,16 +1,23 @@
-### Hi there 👋
+## About Tory1103
+Im a self-learning student interested in improving my not existing skills and keep learning every new tecnologic theme
 
-<!--
-**tory1103/tory1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My known programming languages:
+* [Python](https://www.python.org/) - MOST USED
+* [C++](https://docs.microsoft.com/en-us/cpp/?view=msvc-160) - STILL LEARNING IT
+* [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) - STILL LEARNING IT
+* [JavaScript](https://www.javascript.com/) - INTERESTED IN
+* [PHP](https://www.php.net/) - NEVERMIND
 
-Here are some ideas to get you started:
+My goal is to work with big developers teams as soon as posible
+Also, im interested in learning ethical-hacking and themes of that kind
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contributing
+I contribute in some small teams such as:
+* [LaCashita](https://github.com/lacashitateam)
+* [SerTor-TEAM](https://github.com/SerTor-TEAM)
+* [SerTor-Automate](https://github.com/SerTor-Automate)
+* [Haliltax](https://github.com/Haliltax)
+
+
+## Contact
+Tory1103 - [@sertordev](https://twitter.com/sertordev) - sertorserver@gmail.com
