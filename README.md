@@ -16,7 +16,6 @@ I contribute in some small teams such as:
 * [LaCashita](https://github.com/lacashitateam)
 * [SerTor-TEAM](https://github.com/SerTor-TEAM)
 * [SerTor-Automate](https://github.com/SerTor-Automate)
-* [Haliltax](https://github.com/Haliltax)
 
 
 ## Contact
