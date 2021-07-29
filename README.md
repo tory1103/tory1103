@@ -7,7 +7,7 @@
 
 <br />
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=tory1103&show_icons=true&locale=en" alt="tory1103" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=tory1103&show_icons=true&locale=en&theme=dracula" alt="tory1103" /></p>
 
 - 🔭 I’m currently working on **self development**
 
